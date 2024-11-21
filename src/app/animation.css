@@ -1,8 +1,8 @@
 .scrollingbackground {
     height: 100vh;
     background-image: url('https://imgs.search.brave.com/12AwZG_fu1ZeWH-U0wdNc7bDi_ysuwlfS1H_EkqFyTM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA4LzgwLzg2LzA1/LzM2MF9GXzg4MDg2/MDUxMF9KODNsMEl2/Wm92UzVKQVdVU21r/bk5JY29yOUNoNTlD/SS5qcGc');
-    background-size: cover;
-    background-repeat: repeat-x; /* Horizontal repeat */
+    /* background-size: cover; */
+    /* background-repeat: repeat-x; Horizontal repeat */
     animation: scroll 10s linear infinite; /* Infinite loop */
 }
 
