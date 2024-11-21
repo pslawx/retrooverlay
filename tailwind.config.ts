@@ -8,6 +8,15 @@ export default {
   ],
   theme: {
     extend: {
+      // animation: {
+      //   scroll: 'scroll 10s linear infinite',
+      // },
+      // keyframes: {
+      //   scroll: {
+      //     '0%': { backgroundPosition: '0 0'},
+      //     '100%': { backgroundPosition: '-100% 0'},
+      //   }
+      // },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
